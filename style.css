@@ -1,7 +1,7 @@
 body{
     margin: 0;
 }
-span{
+.orange{
     color: orange;
 }
 .first-part{
@@ -179,4 +179,24 @@ span{
     margin-top: 100px;
     margin-right: 170px;
     padding-right: 0px;
+}
+footer h1{
+    font-family: 'Lobster', cursive;
+    color: white;
+    font-size: 50px;
+    padding-top: 50px;
+}
+.red{
+    color: rgba(255, 0, 0, 0.5);
+}
+footer{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.87);
+}
+footer p{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-weight: 300;
+    padding-bottom: 50px;
+    margin-bottom: 0;
 }
